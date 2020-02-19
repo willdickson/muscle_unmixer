@@ -2,6 +2,8 @@
 
 Thad's GUI for muscle unmixing.
 
+![screenshot](images/screenshot.png)
+
 ### Requirements
 
 System packages (install via sudo apt-get)
