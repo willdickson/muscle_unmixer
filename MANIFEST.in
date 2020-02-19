@@ -1,0 +1,2 @@
+include muscle_unmixer/viewer.ui
+recursive-include muscle_unmixer *
